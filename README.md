@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with the Intraday App
 
 ## Steps to run the app
 
@@ -8,7 +6,7 @@ In the project directory, run:
 
 ### `npm install`
 
-Installs all the dev dependencies for the app to run in your browser.
+Installs all the dependencies for the app to run in your browser.
 
 ### `npm start`
 
